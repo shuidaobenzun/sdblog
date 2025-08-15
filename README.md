@@ -1,4 +1,4 @@
-# Blog System - PHP+MySQL 前后端不分离解决方案
+# Shuidao Blog System - PHP+MySQL 前后端不分离解决方案
 
 ## 系统概述
 这是一个基于PHP+MySQL的前后端不分离博客系统，包含用户系统、内容管理、内容展示和后台管理等完整功能。系统采用MVC架构设计，确保代码结构清晰、易于维护和扩展。
@@ -131,6 +131,6 @@ blog-system/
 4. **后台无法访问**：检查是否具有管理员权限
 
 ## 联系方式
-如有问题或建议，请联系：[yourname@example.com](mailto:yourname@example.com)
+如有问题或建议，请联系：[525637945@qq.com](mailto:525637945@qq.com)
 
-© 2023 Blog System. All rights reserved.
+© 2025 Shuidao Blog System. All rights reserved.
