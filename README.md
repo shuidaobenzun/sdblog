@@ -70,8 +70,7 @@ blog-system/
 ### 安装步骤
 1. **克隆项目**
    ```bash
-   git clone https://github.com/yourusername/blog-system.git
-   cd blog-system
+   git clone https://github.com/shuidaobenzun/sdblog.git
    ```
 
 2. **创建数据库**
